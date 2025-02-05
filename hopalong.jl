@@ -20,7 +20,7 @@ function hopalong(num, a, b, c)
               title="Orbit of 'Martins Map'. num=$num, a=$a, b=$b, c=$c")
     )
 
-    save("Martins_Pics/hopalong_$num.png", fig)
+    #save("Martins_Pics/hopalong_$num.png", fig)
     display(fig)
 end   
 

@@ -38,7 +38,7 @@ end
 function main()
     # Hardcoded parameters
     a, b, c = -0.6, 0.5, 0
-    n = 100000000000  # No formatting needed
+    n = 10000000  # No formatting needed
     image_size = (1000, 1000)
     color_map = :hot
 
